@@ -24,7 +24,7 @@ public class Main {
         school3.addStudents("D");
         school3.addStudents("V");
 
-        ArrayList<String> students = school1.getStudents(;)
+        ArrayList<String> students = school1.getStudents();
 
         for(String student : students){
             System.out.print(student + " ");
